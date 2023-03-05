@@ -1,0 +1,10 @@
+Polar Roses ver. 1.0.0 (Rust version)
+By Illia Yavdoshchuk
+
+FPS            : {:.2}{}
+Angle  {:8}: {:13.6} degrees out of {:13.6} degrees
+Angle delta    : {} degrees per frame
+History length : {} items
+Window size    : {}x{} pixels
+AA level       : {} (next: {})
+Flags          : {:08b}
